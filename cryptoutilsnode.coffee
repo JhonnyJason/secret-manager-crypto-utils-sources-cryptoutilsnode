@@ -1,7 +1,7 @@
 cryptoutilsnode = {}
 
 ############################################################
-noble = require("noble-ed25519")
+noble = require("@noble/ed25519")
 tbut = require("thingy-byte-utils")
 crypto = require("crypto")
 
